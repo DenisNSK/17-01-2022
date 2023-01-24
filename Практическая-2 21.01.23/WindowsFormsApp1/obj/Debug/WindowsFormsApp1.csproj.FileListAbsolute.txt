@@ -1,0 +1,14 @@
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\Users\Admin\Desktop\Системное програмирование\Практическая-2 21.01.23\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
